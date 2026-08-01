@@ -27,6 +27,7 @@ alias reboot='shutdown -r now' # System sofort neu starten
 
 # try dis out sudo apt install cockpit
 alias cockpit-install='sudo apt install cockpit'
+
 # help
 alias ao-help="echo 'man(pages) offline, https://tldr.inbrowser.app/, http://cheat.sh/'"
 
